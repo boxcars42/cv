@@ -7,7 +7,7 @@ A multi-page personal website built while doing a web development course on Udem
 - CV
 - Hobbies
 - Contact
-- Mission Impossible — a class project listing different types of pasta
+- Mission Impastable — a class project listing different types of pasta
 
 ## Features
 
