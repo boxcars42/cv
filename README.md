@@ -1,6 +1,6 @@
 # Personal Website
 
-A multi-page personal website built as part of my QA qualification studies at SV College.
+A multi-page personal website built while doing a web development course on Udemy.
 
 ## Pages
 
